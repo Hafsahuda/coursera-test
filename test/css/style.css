@@ -1,0 +1,26 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 20px;
+	color: #fff;
+	background-color:#611223 ;
+	font-family: 'Aref Ruqaa', serif;
+}
+
+.hello{
+	float: left;
+
+}
+
+#calling a:link, #calling a:visited{
+	font-size: 20px;
+	color: #fff;
+	margin: 0px;
+	padding:10px; 
+	float: right;
+	background-color: #111211;
+	text-decoration: none;
+
+}
