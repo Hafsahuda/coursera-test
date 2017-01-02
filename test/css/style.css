@@ -10,17 +10,14 @@ body {
 }
 
 .hello{
-	float: left;
+	clear: right;
 
 }
 
 #calling a:link, #calling a:visited{
 	font-size: 20px;
-	color: #fff;
-	margin: 0px;
-	padding:10px; 
+	color: #fff; 
 	float: right;
-	background-color: #111211;
 	text-decoration: none;
 
 }
